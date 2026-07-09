@@ -181,3 +181,5 @@ Nimbus AI is designed to become more than a productivity tool.
 The long-term vision is to create a calm, intelligent workspace where AI supports professionals by simplifying communication, planning, research, and decision-making.
 
 🌱 Work Smarter. Think Clearly. Achieve More.
+
+https://ai-workplace-productivity-assistant-455776272673.europe-west2.run.app
