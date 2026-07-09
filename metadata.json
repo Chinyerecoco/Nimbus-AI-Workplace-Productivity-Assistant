@@ -1,0 +1,6 @@
+{
+  "name": "AI Workplace Productivity Assistant",
+  "description": "A modern, professional SaaS workspace that automates daily professional tasks using Gemini, featuring an email generator, meeting notes summarizer, task planner, research assistant, and collaborative chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
