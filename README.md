@@ -125,6 +125,7 @@ Clarity
 Professionalism
 
 Example Prompt:
+
 Act as a professional business assistant. Draft a formal and polite annual leave request email.
 Audience: My direct manager
 Tone:Professional and courteous
